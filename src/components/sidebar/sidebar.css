@@ -2,7 +2,10 @@
     flex:3;
     height:calc(100vh - 50px);
     overflow-y: scroll;
-    /* background-color: lawngreen; */
+    background-color: aquamarine;
+    /* position:sticky; */
+    top:50px;
+    position: sticky;
 }
 ::-webkit-scrollbar{
     width:5px;
